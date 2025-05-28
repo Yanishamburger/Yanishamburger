@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Featured Projects
-- 🎧 **[HamBot](https://github.com/Yanishamburger/HamBot)** – A complete Discord bot for moderation, music, logging, and more.
+- 🎧 **[HamBot](https://github.com/HamBot-Discord/HamBot)** – A complete Discord bot for moderation, music, logging, and more.
 - 🔥 **[Magmastream](https://github.com/Magmastream-NPM/magmastream)** – Advanced Lavalink client for seamless Discord music bots.
 
 ---
