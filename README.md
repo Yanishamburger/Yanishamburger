@@ -1,14 +1,15 @@
 # 👋 Hello, I'm Yanis 🍔
 
-🎓 A young and passionate developer from France 🇫🇷. I love Discord bots, Node.js, networking, and even cybersecurity!  
-💡 I’m always learning and building fun projects, including moderation systems, music players, and dashboards.  
-🔧 Currently developing **HamBot**, a feature-rich Discord bot that enhances servers with moderation, music, and logging.  
+🎓 A young and passionate developer from France 🇫🇷.  
+💻 I love **Discord bots**, **Node.js**, **networking**, and **cybersecurity**!  
+💡 Always exploring new technologies and building fun projects!  
+🔧 Currently developing **HamBot**, a feature-rich Discord bot that enhances servers with moderation, music, and logging.
 
 ---
 
 ## 🚀 Featured Projects
 - 🎧 **[HamBot](https://github.com/Yanishamburger/HamBot)** – A complete Discord bot for moderation, music, logging, and more.
-- 🌐 **[HamBot Dashboard](https://github.com/Yanishamburger/HamBotDashboard)** – A modern dashboard with OAuth2 login and intuitive controls.
+- 🔥 **[Magmastream](https://github.com/Magmastream-NPM/magmastream)** – Advanced Lavalink client for seamless Discord music bots.
 
 ---
 
@@ -26,26 +27,46 @@
 ## 📈 GitHub Stats
 ![Yanishamburger's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanishamburger&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanishamburger&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Yanishamburger&theme=radical&hide_border=true)
+
+---
+
+## 🏆 Achievements
+- 🏅 Built a Discord bot with over **700,000+ database requests** processed.
+- 🚀 Launched multiple projects from scratch and maintained them in production.
+- 🌐 Mastered Discord.js and advanced audio streaming techniques (Lavalink/Magmastream).
+
+---
+
+## 🧰 Tools & Technologies
+- 🐧 **Linux** and **Ubuntu Server** expert.
+- ⚙️ **Proxmox** and **VMware** for virtualization and network testing.
+- 📦 **MongoDB**, **Node.js**, **Express**, and **Docker**.
+
+---
+
+## 🎮 Fun Hobbies
+- 🎵 Creating and testing audio filters for Discord bots.
+- 🕹️ Gaming on **Roblox** and experimenting with new tech.
+- 🔒 Playing with cybersecurity concepts for learning and fun.
+
+---
+
+## 💬 Favorite Quote
+> _“Stay curious and keep building !”_ 🚀  
+> _“Code is like humor. When you have to explain it, it’s bad.”_
 
 ---
 
 ## 🌐 Socials
-- 💬 **Discord**: `Yanishamburger#1234`
-- 📧 **Email**: [support@hambot.fr](mailto:=support@hambot.fr)
-
----
-
-## ✨ Fun Facts
-- 🧠 I enjoy experimenting with network configurations and server setups.
-- 🎵 I love adding cool music features to my bots and playing with audio filters.
-- 🖥️ I manage my own Proxmox cluster and often use VMware for testing.
-- 📊 My bot HamBot has handled over **700,000 database requests** and is continuously improving.
-- 🔐 I care about security and regularly experiment with cybersecurity concepts.
-- 🚀 Planning to launch a premium version of HamBot for even more features!
+- 💬 **Discord**: `yanishamburger`
+- 📧 **Email**: [support@hambot.fr](mailto:support@hambot.fr)
+- 🌍 **Website**: [hambot.fr](https://hambot.fr)
 
 ---
 
 ## 🎉 Thanks for visiting!
 ![Visitor Count](https://profile-counter.glitch.me/Yanishamburger/count.svg)
 
-> *“Stay curious and keep building!”* 🚀
+---
+
