@@ -69,9 +69,9 @@
 ---
 
 ## 🌐 Socials
-- 💬 **Discord**: `Yanishamburger#1234`
+- 💬 **Discord**: `yanishamburger`
 - 📧 **Email**: [support@hambot.fr](mailto:support@hambot.fr)
-- 🌍 **Website**: [hambot.fr](https://hambot.fr) *(if applicable)*
+- 🌍 **Website**: [hambot.fr](https://hambot.fr)
 
 ---
 
