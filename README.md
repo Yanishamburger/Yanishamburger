@@ -26,9 +26,21 @@
 ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 ![dotenv](https://img.shields.io/badge/-dotenv-000000?logo=dotenv&logoColor=white)
 ![Moment.js](https://img.shields.io/badge/-Moment.js-FFBB00?logo=javascript&logoColor=black)
-![lru-cache](https://img.shields.io/badge/-NodeCache-009688?logo=buffer&logoColor=white)
+![node-cache](https://img.shields.io/badge/-NodeCache-009688?logo=buffer&logoColor=white)
 ![Tenor API](https://img.shields.io/badge/-Tenor-3F51B5?logo=tenor&logoColor=white)
 ![Top.gg API](https://img.shields.io/badge/-Top.gg-FF4500?logo=topdotgg&logoColor=white)
+
+---
+
+## 🌐 Platforms & Tools I Use
+![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
+![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white)
+![Steam](https://img.shields.io/badge/-Steam-000000?logo=steam&logoColor=white)
+![Crunchyroll](https://img.shields.io/badge/-Crunchyroll-F47521?logo=crunchyroll&logoColor=white)
+![Pterodactyl](https://img.shields.io/badge/-Pterodactyl-5C5C5C?logo=pterodactyl&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?logo=openai&logoColor=white)
+![Google Docs](https://img.shields.io/badge/-Google%20Docs-4285F4?logo=googledocs&logoColor=white)
+![Roblox](https://img.shields.io/badge/-Roblox-000000?logo=roblox&logoColor=white)
 
 ---
 
@@ -59,6 +71,7 @@
 - 🎮 Gaming on **Roblox** and discovering new challenges.
 - 🖥️ Managing my own **Proxmox cluster** and experimenting with **VMware**.
 - 🎤 Building interactive music systems and dashboards for Discord communities.
+- 🌊 Windsurfing and enjoying the sea breeze! *(custom badge possible)*
 
 ---
 
@@ -77,6 +90,4 @@
 
 ## 🎉 Thanks for visiting!
 ![Visitor Count](https://profile-counter.glitch.me/Yanishamburger/count.svg)
-
----
 
