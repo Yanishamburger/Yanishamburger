@@ -26,7 +26,7 @@
 ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 ![dotenv](https://img.shields.io/badge/-dotenv-000000?logo=dotenv&logoColor=white)
 ![Moment.js](https://img.shields.io/badge/-Moment.js-FFBB00?logo=javascript&logoColor=black)
-![node-cache](https://img.shields.io/badge/-NodeCache-009688?logo=buffer&logoColor=white)
+![lru-cache](https://img.shields.io/badge/-NodeCache-009688?logo=buffer&logoColor=white)
 ![Tenor API](https://img.shields.io/badge/-Tenor-3F51B5?logo=tenor&logoColor=white)
 ![Top.gg API](https://img.shields.io/badge/-Top.gg-FF4500?logo=topdotgg&logoColor=white)
 
