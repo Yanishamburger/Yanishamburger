@@ -16,6 +16,7 @@
 ## 💻 Tech Stack
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?logo=mongodb&logoColor=white)
 ![Lavalink](https://img.shields.io/badge/-Lavalink-4D4D4D?logo=musicbrainz&logoColor=white)
@@ -29,6 +30,7 @@
 ![node-cache](https://img.shields.io/badge/-NodeCache-009688?logo=buffer&logoColor=white)
 ![Tenor API](https://img.shields.io/badge/-Tenor-3F51B5?logo=tenor&logoColor=white)
 ![Top.gg API](https://img.shields.io/badge/-Top.gg-FF4500?logo=topdotgg&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?logo=ffmpeg&logoColor=white)
 
 ---
 
@@ -41,6 +43,7 @@
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?logo=openai&logoColor=white)
 ![Google Docs](https://img.shields.io/badge/-Google%20Docs-4285F4?logo=googledocs&logoColor=white)
 ![Roblox](https://img.shields.io/badge/-Roblox-000000?logo=roblox&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ---
 
