@@ -44,6 +44,8 @@
 ![Google Docs](https://img.shields.io/badge/-Google%20Docs-4285F4?logo=googledocs&logoColor=white)
 ![Roblox](https://img.shields.io/badge/-Roblox-000000?logo=roblox&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![PuTTY](https://img.shields.io/badge/-PuTTY-2962FF?logo=putty&logoColor=white)
+![WinSCP](https://img.shields.io/badge/-WinSCP-00BFA5?logo=winscp&logoColor=white)
 
 ---
 
