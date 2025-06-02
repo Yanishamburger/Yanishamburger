@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Yanis 🍔
 
 🎓 A young and passionate developer from France 🇫🇷.  
-💻 I love **Discord bots**, **Node.js**, **networking**, and **cybersecurity**!  
+💻 I love **Discord bots**, **Node.js**, **networking**, and **cybersecurity** !  
 💡 Always exploring new technologies and building fun projects!  
 🔧 Currently developing **HamBot**, a feature-rich Discord bot that enhances servers with moderation, music, and logging.
 
@@ -64,7 +64,7 @@
 ---
 
 ## 🧠 Learning & Curiosity
-- 🤖 I love experimenting with **AI** (like ChatGPT) to learn new concepts and challenge myself!
+- 🤖 I love experimenting with **AI** (like ChatGPT) to learn new concepts and challenge myself !
 - 🔒 I'm curious about **cybersecurity** and network architecture.
 - 🕹️ I enjoy playing with **network configs**, testing servers, and virtual environments.
 - 🎓 Constantly pushing myself to learn more and improve every day.
@@ -76,7 +76,6 @@
 - 🎮 Gaming on **Roblox** and discovering new challenges.
 - 🖥️ Managing my own **Proxmox cluster** and experimenting with **VMware**.
 - 🎤 Building interactive music systems and dashboards for Discord communities.
-- 🌊 Windsurfing and enjoying the sea breeze! *(custom badge possible)*
 
 ---
 
