@@ -46,6 +46,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/-PuTTY-2962FF?logo=putty&logoColor=white)
 ![WinSCP](https://img.shields.io/badge/-WinSCP-00BFA5?logo=winscp&logoColor=white)
+![Termius](https://img.shields.io/badge/Termius-000000?logo=termius&logoColor=white)
 
 ---
 
