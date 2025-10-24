@@ -58,7 +58,7 @@
 ---
 
 ## 🏆 Achievements
-- 🏅 Built a Discord bot with over **700,000+ database requests** processed.
+- 🏅 Built a Discord bot with over **1M+ database requests** processed.
 - 🚀 Launched multiple projects from scratch and maintained them in production.
 - 🌐 Mastered Discord.js, audio streaming with Lavalink/Magmastream, and bot management.
 
