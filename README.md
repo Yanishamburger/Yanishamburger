@@ -101,8 +101,3 @@ HamBot is a feature-rich Discord bot that brings servers to life with:
 - 📧 **Email**: [support@hambot.fr](mailto:support@hambot.fr)  
 - 🌍 **Website**: [hambot.fr](https://hambot.fr)
 
----
-
-## 🎉 Visitors
-![Visitor Count](https://profile-counter.glitch.me/Yanishamburger/count.svg)
-
