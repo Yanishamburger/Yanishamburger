@@ -68,9 +68,9 @@ HamBot is a feature-rich Discord bot that brings servers to life with:
 ---
 
 ## 📊 GitHub Stats
-![Yanishamburger's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanishamburger&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanishamburger&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=Yanishamburger&theme=radical&hide_border=true)
+![Yanishamburger's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanishamburger&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanishamburger&layout=compact&theme=radical&hide_border=true&cache_seconds=21600)
+![GitHub Streak](https://streak-stats.demolab.com?user=Yanishamburger&theme=radical&hide_border=true)
 
 ---
 
