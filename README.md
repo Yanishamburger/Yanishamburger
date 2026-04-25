@@ -1,103 +1,136 @@
-# 👋 Hey there, I'm **Yanis 🍔**
+<div align="center">
 
-🎓 A **young French developer** passionate about **Discord bots**, **Node.js**, **networking**, and **cybersecurity**.  
-💡 Always seeking new challenges, improving my code, and building things that make people smile.  
-🚀 Currently working full-time on **HamBot**, my all-in-one Discord bot designed to enhance communities with **music**, **moderation**, and **automation**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yanis%20🍔&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Young%20French%20Developer%20·%20Builder%20·%20Perfectionist&descAlignY=55&descSize=16" width="100%"/>
 
----
+</div>
 
-## 🌟 About Me
-- 🇫🇷 Based in France, I love mixing **tech and creativity** to bring ideas to life.  
-- 💻 I focus on **performance**, **reliability**, and **user experience** in all my projects.  
-- 🧠 I constantly learn new concepts — from **network architecture** to **cybersecurity** and **AI tools** like ChatGPT.  
-- ⚙️ I’m a perfectionist who loves optimizing systems, reducing latency, and keeping things clean and efficient.  
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Discord+Bot+Developer+%F0%9F%A4%96;Node.js+%26+TypeScript+Enthusiast+%E2%9A%A1;Network+%26+Cybersecurity+Learner+%F0%9F%9B%A1%EF%B8%8F;Building+HamBot+%E2%80%94+full-time+%F0%9F%90%B9)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🎧 My Main Project: **HamBot**
-> 🐹 *“Moderate smarter. Play together. Log everything.”*
+## 🐹 About Me
 
-HamBot is a feature-rich Discord bot that brings servers to life with:
-- 🎵 **Music system** powered by **Lavalink** & **Magmastream**
-- 🛡️ **Moderation tools** and detailed **logs**
-- 📊 **Automatic systems** for managing channels, playlists, and filters  
-- 🌍 **Multilingual support** (English 🇬🇧 & French 🇫🇷)
-- ⚡ Optimized MongoDB structure handling **700k+ requests** efficiently  
-- 🧩 A clean controller interface that updates dynamically in real time  
+```ts
+const yanis = {
+  location:   "🇫🇷 France",
+  focus:      ["Discord bots", "Node.js", "Networking", "Cybersecurity"],
+  mainProject: "HamBot — all-in-one Discord bot",
+  values:     ["performance", "reliability", "clean code"],
+  funFact:    "Best optimization ideas come at night 🌙",
+};
+```
 
-🔗 Website: [**hambot.fr**](https://hambot.fr)
+---
+
+## 🚀 Main Project — [HamBot](https://hambot.fr)
+
+> *"Moderate smarter. Play together. Log everything."*
+
+HamBot is a feature-rich Discord bot built for communities that demand quality.
+
+| Feature | Details |
+|---|---|
+| 🎵 Music | Powered by **Lavalink** & **Magmastream** |
+| 🛡️ Moderation | Full toolset + detailed logs |
+| 📊 Automation | Dynamic channels, playlists & filters |
+| 🌍 Languages | English 🇬🇧 & French 🇫🇷 |
+| ⚡ Performance | **700k+ MongoDB requests** handled efficiently |
+| 🧩 Controller | Real-time dynamic interface |
+
+🔗 **[hambot.fr](https://hambot.fr)**
 
 ---
 
 ## 🔥 Other Projects
-- 🧱 [**Magmastream**](https://github.com/Magmastream-NPM/magmastream) – Advanced Lavalink client for smooth, high-performance Discord music bots.  
-- 🛠️ Internal tools for monitoring, caching, and optimizing Discord.js performance.  
+
+| Project | Description |
+|---|---|
+| [**Magmastream**](https://github.com/Magmastream-NPM/magmastream) | Advanced Lavalink client for high-performance Discord music bots |
+| **Internal Tools** | Monitoring, caching & Discord.js performance optimization |
 
 ---
 
 ## 🧰 Tech Stack
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-800000?logo=mongodb&logoColor=white)
-![Lavalink](https://img.shields.io/badge/-Lavalink-4D4D4D?logo=musicbrainz&logoColor=white)
-![Magmastream](https://img.shields.io/badge/-Magmastream-FF5733?logo=buffer&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Proxmox](https://img.shields.io/badge/-Proxmox-E8E9EB?logo=proxmox&logoColor=black)
-![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?logo=ffmpeg&logoColor=white)
-![Moment.js](https://img.shields.io/badge/-Moment.js-FFBB00?logo=javascript&logoColor=black)
-![node-cache](https://img.shields.io/badge/-NodeCache-009688?logo=buffer&logoColor=white)
 
----
+### Languages & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 💻 Tools & Platforms
-![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)
-![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white)
-![Steam](https://img.shields.io/badge/-Steam-000000?logo=steam&logoColor=white)
-![Crunchyroll](https://img.shields.io/badge/-Crunchyroll-F47521?logo=crunchyroll&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?logo=openai&logoColor=white)
-![Pterodactyl](https://img.shields.io/badge/-Pterodactyl-5C5C5C?logo=pterodactyl&logoColor=white)
-![PuTTY](https://img.shields.io/badge/-PuTTY-2962FF?logo=putty&logoColor=white)
-![WinSCP](https://img.shields.io/badge/-WinSCP-00BFA5?logo=winscp&logoColor=white)
-![Termius](https://img.shields.io/badge/-Termius-000000?logo=termius&logoColor=white)
+### Database & Backend
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Audio & Bots
+![Lavalink](https://img.shields.io/badge/Lavalink-4D4D4D?style=for-the-badge&logo=musicbrainz&logoColor=white)
+![Magmastream](https://img.shields.io/badge/Magmastream-FF5733?style=for-the-badge&logo=buffer&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+
+### Infrastructure & DevOps
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E8E9EB?style=for-the-badge&logo=proxmox&logoColor=black)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![Yanishamburger's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanishamburger&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanishamburger&layout=compact&theme=radical&hide_border=true&cache_seconds=21600)
-![GitHub Streak](https://streak-stats.demolab.com?user=Yanishamburger&theme=radical&hide_border=true)
+
+<div align="center">
+
+![Yanis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yanishamburger&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanishamburger&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yanishamburger&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
 ## 🏆 Achievements
-- ⚙️ Built **HamBot**, processing over **1M+ MongoDB requests** with optimized caching.  
-- 🧩 Developed **real-time controllers** for music embeds and user interactions.  
-- 🛡️ Created complete logging, moderation, and music systems for Discord servers.  
-- 🔍 Designed performance tests and network diagnostics using **Speedtest**, **Proxmox**, and **Ubuntu** servers.  
+
+- ⚙️ Built **HamBot**, processing **1M+ MongoDB requests** with optimized caching
+- 🧩 Developed **real-time controllers** for music embeds and user interactions
+- 🛡️ Created complete logging, moderation & music systems from scratch
+- 🔍 Designed performance tests & network diagnostics with Proxmox + Ubuntu
 
 ---
 
-## 💬 Fun Facts About Me
-- 🍔 I love naming things with food themes (hence *HamBot* 😄).  
-- 🎮 I play **Roblox** (especially *Blox Fruits*) and enjoy grinding XP the smart way.  
-- 🧰 I host my own servers locally with **VMware** and **Proxmox** clusters.  
-- 💭 I often test optimization ideas at night — that’s when the best ones come!  
+## 💬 Fun Facts
+
+- 🍔 Everything I build has a food theme — hence *HamBot* 😄
+- 🎮 I play Roblox (*Blox Fruits*) and grind XP the smart way
+- 🧰 I run my own servers locally with VMware & Proxmox clusters
+- 🌙 Night mode = best optimization mode
 
 ---
 
 ## 💡 Favorite Quotes
-> _“Stay curious, keep building, and never stop learning.”_  
-> _“Code is like humor — when you have to explain it, it’s bad.”_  
+
+> *"Stay curious, keep building, and never stop learning."*
+> *"Code is like humor — when you have to explain it, it's bad."*
 
 ---
 
-## 🌐 Connect with Me
-- 💬 **Discord**: `yanishamburger`  
-- 📧 **Email**: [support@hambot.fr](mailto:support@hambot.fr)  
-- 🌍 **Website**: [hambot.fr](https://hambot.fr)
+## 🌐 Connect
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/yanishamburger-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Email](https://img.shields.io/badge/support@hambot.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@hambot.fr)
+[![Website](https://img.shields.io/badge/hambot.fr-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hambot.fr)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
 
