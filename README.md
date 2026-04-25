@@ -16,11 +16,11 @@
 
 ```ts
 const yanis = {
-  location:   "🇫🇷 France",
-  focus:      ["Discord bots", "Node.js", "Networking", "Cybersecurity"],
-  mainProject: "HamBot — all-in-one Discord bot",
-  values:     ["performance", "reliability", "clean code"],
-  funFact:    "Best optimization ideas come at night 🌙",
+    location:   "🇫🇷 France",
+    focus:      ["Discord bots", "Node.js", "Networking", "Cybersecurity"],
+    mainProject: "HamBot — all-in-one Discord bot",
+    values:     ["performance", "reliability", "clean code"],
+    funFact:    "Best optimization ideas come at night 🌙",
 };
 ```
 
