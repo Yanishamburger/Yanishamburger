@@ -83,7 +83,7 @@ HamBot is a feature-rich Discord bot built for communities that demand quality.
 
 <div align="center">
 
-![Yanis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yanishamburger&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600&rank_icon=github)
+![Yanis's GitHub Stats](github-readme-stats-ccggmy6rq-yanishamburgers-projects.vercel.app)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanishamburger&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600)
 
