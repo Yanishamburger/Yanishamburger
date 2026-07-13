@@ -12,7 +12,7 @@
 
 ---
 
-## 🐹 About Me
+## 🍔 About Me
 
 ```ts
 const yanis = {
@@ -131,4 +131,3 @@ HamBot is a feature-rich Discord bot built for communities that demand quality.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
