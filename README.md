@@ -43,8 +43,12 @@ HamBot is a feature-rich Discord bot built for communities that demand quality.
 
 🔗 **[hambot.fr](https://hambot.fr)**
 
-![Bots Discord](https://top.gg/api/widget/1049314312776335390.svg)
-![Discord Bots](https://top.gg/api/v1/widgets/large/878271720384208896)
+<a href="https://top.gg/bot/1049314312776335390">
+  <img src="https://top.gg/api/widget/1049314312776335390.svg">
+</a>
+<a href="https://top.gg/discord/servers/878271720384208896">
+  <img src="https://top.gg/api/v1/widgets/large/878271720384208896">
+</a>
 
 ---
 
