@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Yanis%20%F0%9F%8D%94&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Discord%20Bot%20Developer%20%C2%B7%20Node.js%20%26%20TypeScript%20%C2%B7%20Network%20%26%20Security&amp;descAlignY=55&amp;descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yanis%20🍔&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Young%20French%20Developer%20·%20Builder%20·%20Perfectionist&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Discord+Bot+Developer;Node.js+%26+TypeScript;Network+%26+Cybersecurity;Building+HamBot+full-time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Discord+Bot+Developer+%F0%9F%A4%96;Node.js+%26+TypeScript+Enthusiast+%E2%9A%A1;Network+%26+Cybersecurity+Learner+%F0%9F%9B%A1%EF%B8%8F;Building+HamBot+%E2%80%94+full-time+%F0%9F%8D%94)](https://git.io/typing-svg)
 
 </div>
 
