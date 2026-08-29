@@ -45,6 +45,9 @@ Feature-rich Discord bot for communities that need reliability at scale.
 <a href="https://top.gg/bot/1049314312776335390">
   <img src="https://top.gg/api/widget/1049314312776335390.svg">
 </a>
+<a href="https://top.gg/discord/servers/878271720384208896">
+  <img src="https://top.gg/api/v1/widgets/large/878271720384208896">
+</a>
 
 ---
 
