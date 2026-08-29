@@ -64,7 +64,7 @@ Feature-rich Discord bot for communities that need reliability at scale.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,mongodb,express,ffmpeg,ubuntu,docker,vmware,discord,git,npm,cloudflare,gmail&perline=15&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,mongodb,express,ubuntu,docker,discord,git,npm,cloudflare,gmail&perline=15&theme=dark)](https://skillicons.dev)
 
 </div>
 
