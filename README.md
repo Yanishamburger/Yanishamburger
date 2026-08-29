@@ -65,7 +65,7 @@ HamBot is a feature-rich Discord bot built for communities that demand quality.
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,mongodb,express,ffmpeg,ubuntu,docker,vmware&perline=5&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,mongodb,express,ffmpeg,ubuntu,docker,vmware,discord,git,npm,cloudflare,gmail&perline=5&theme=dark)](https://skillicons.dev)
 
 </div>
 
