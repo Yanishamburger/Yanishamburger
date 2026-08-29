@@ -63,26 +63,11 @@ HamBot is a feature-rich Discord bot built for communities that demand quality.
 
 ## 🧰 Tech Stack
 
-### Languages & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-### Database & Backend
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,js,mongodb,express,ffmpeg,ubuntu,docker,vmware&perline=5&theme=dark)](https://skillicons.dev)
 
-### Audio & Bots
-![Lavalink](https://img.shields.io/badge/Lavalink-4D4D4D?style=for-the-badge&logo=musicbrainz&logoColor=white)
-![Magmastream](https://img.shields.io/badge/Magmastream-FF5733?style=for-the-badge&logo=buffer&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
-
-### Infrastructure & DevOps
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E8E9EB?style=for-the-badge&logo=proxmox&logoColor=black)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+</div>
 
 ---
 
