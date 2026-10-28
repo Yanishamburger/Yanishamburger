@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 300" width="840" height="300" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
+  <rect width="840" height="300" rx="8" fill="#a78bfa"/>
+  <rect x="4" width="836" height="300" rx="8" fill="#2b2d31"/>
+
+  <!-- author -->
+  <circle cx="36" cy="32" r="13" fill="#3a2a55"/>
+  <path d="M28,31 Q28,23 36,23 Q44,23 44,31 Z" fill="#f0a35e"/>
+  <rect x="28" y="32" width="16" height="3.5" rx="1.75" fill="#6b3a24"/>
+  <rect x="28" y="37" width="16" height="3.5" rx="1.75" fill="#e08f48"/>
+  <text x="58" y="37" font-size="15" font-weight="700" fill="#f2f3f5">HamBot</text>
+  <rect x="124" y="24" width="34" height="17" rx="4" fill="#5865f2"/>
+  <text x="141" y="36.5" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">APP</text>
+
+  <text x="24" y="74" font-size="17" font-weight="700" fill="#00a8fc">All-in-one Discord bot</text>
+  <text x="24" y="102" font-size="15" fill="#dbdee1">Music, moderation and automation, in English and French.</text>
+
+  <!-- fields, row 1 -->
+  <g font-size="14">
+    <text x="24" y="140" font-weight="700" fill="#f2f3f5">Music</text>
+    <text x="24" y="162" fill="#dbdee1">Lavalink + Magmastream</text>
+    <text x="24" y="182" fill="#dbdee1">Live player controller</text>
+
+    <text x="300" y="140" font-weight="700" fill="#f2f3f5">Moderation</text>
+    <text x="300" y="162" fill="#dbdee1">Full toolset</text>
+    <text x="300" y="182" fill="#dbdee1">Detailed audit logs</text>
+
+    <text x="576" y="140" font-weight="700" fill="#f2f3f5">Automation</text>
+    <text x="576" y="162" fill="#dbdee1">Dynamic channels</text>
+    <text x="576" y="182" fill="#dbdee1">Playlists &amp; filters</text>
+
+    <!-- fields, row 2 -->
+    <text x="24" y="220" font-weight="700" fill="#f2f3f5">Languages</text>
+    <text x="24" y="242" fill="#dbdee1">English, French</text>
+
+    <text x="300" y="220" font-weight="700" fill="#f2f3f5">Database</text>
+    <text x="300" y="242" fill="#dbdee1">MongoDB, 700k+ operations</text>
+
+    <text x="576" y="220" font-weight="700" fill="#f2f3f5">Website</text>
+    <text x="576" y="242" fill="#00a8fc">hambot.fr</text>
+  </g>
+
+  <text x="24" y="282" font-size="12" fill="#949ba4">hambot.fr • made in France</text>
+</svg>
